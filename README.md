@@ -1,7 +1,7 @@
 # 👨‍💻 Maenys — Software Developer & Tool Creator
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kuko53348&color=blue)
-![Languages](https://img.shields.io/badge/Languages-Python%2C%20JS%2C%20Dart%2C%20C%2B%2B%2C%20Rust%2C%20Go%2C%20Kotlin%2C%20Swift-blue)
+![Languages](https://img.shields.io/badge/Languages-Python%2C%20Bash%2C%20JavaScript%2C%20Dart-blue)
 ![OS](https://img.shields.io/badge/OS-Linux%20%26%20Windows-green)
 ![Status](https://img.shields.io/badge/Currently_Learning-C%2B%2B%2C%20Rust%2C%20Zig-orange)
 
@@ -43,7 +43,7 @@ runApp(App);
 
 ## 🧠 Skills & Technologies
 
-- 💻 **Languages:** Python, JavaScript, Dart, C++, Rust, Go, Kotlin, Swift
+- 💻 **Languages:** Python, Bash, JavaScript, Dart
 - 🧰 **Frameworks:** FletBox, Flet, Flutter, KivyMD, FastAPI, TeleBot, Web3
 - 🗄️ **Databases:** MySQL, SQLite
 - ⚙️ **Dev Tools:** GitHub Actions, esbuild, Capacitor, Poetry
